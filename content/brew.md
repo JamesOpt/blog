@@ -8,7 +8,7 @@ draft: false
 
 > What? Homebrew是什么？都2020年了。　
 >
-> [我也不知道！](https://zh.wikipedia.org/wiki/Homebrew "点击哦😍")
+> [我也不知道！](https://zh.wikipedia.org/wiki/Homebrew)
 
 当你运行 `brew update`，你会发现你可以看着屏幕一整天。
 
