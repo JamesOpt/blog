@@ -1,10 +1,11 @@
 baseurl = "/"
-title = "Hacking Management"
+title = "1+1>2"
 languageCode = "en-us"
 disqusShortname = "jamesho-1"
 copyright = "Copyright (c) 2019 - 2020, Steve Francia; all rights reserved."
 MetaDataFormat = "toml"
 googleAnalytics = "UA-7131036-1"
+enableemoji = true
 
 [author]
     name = "Steve Francia"

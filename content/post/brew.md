@@ -6,9 +6,8 @@ draft: false
 
 ### 解决Homebrew下载极其“快速”问题
 
-> What? Homebrew是什么？都2020年了。　
->
-> [我也不知道！](https://zh.wikipedia.org/wiki/Homebrew)
+[Homebrew是什么？](https://zh.wikipedia.org/wiki/Homebrew)
+> The Missing Package Manager for macOS (or Linux)
 
 当你运行 `brew update`，你会发现你可以看着屏幕一整天。
 
