@@ -1,7 +1,7 @@
 baseurl = "/"
 title = "Hacking Management"
 languageCode = "en-us"
-disqusShortname = "spf13"
+disqusShortname = "jamesho-1"
 copyright = "Copyright (c) 2019 - 2020, Steve Francia; all rights reserved."
 MetaDataFormat = "toml"
 googleAnalytics = "UA-7131036-1"
