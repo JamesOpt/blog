@@ -23,3 +23,8 @@ enableemoji = true
     enableDNT = true
   [privacy.youtube]
     privacyEnhanced = true
+
+[taxonomies]
+  tag = "tags"
+  series = "series"
+  category = "categories"

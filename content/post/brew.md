@@ -2,6 +2,7 @@
 title: "解决Homebrew下载极其“快速”问题"
 date: 2020-03-12T17:11:52+08:00
 draft: false
+tags: ["homebrew", "brew", "镜像源"]
 ---
 
 ### 解决Homebrew下载极其“快速”问题
